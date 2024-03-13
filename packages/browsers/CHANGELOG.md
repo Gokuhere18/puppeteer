@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/puppeteer/puppeteer/compare/browsers-v2.1.0...browsers-v2.2.0) (2024-03-13)
+
+
+### Features
+
+* allow downloading Firefox channels other than nightly ([#12051](https://github.com/puppeteer/puppeteer/issues/12051)) ([e4cc2f9](https://github.com/puppeteer/puppeteer/commit/e4cc2f9ee944f2507a03cf8f5af99759c97ee2ec))
+
 ## [2.1.0](https://github.com/puppeteer/puppeteer/compare/browsers-v2.0.1...browsers-v2.1.0) (2024-02-21)
 
 
